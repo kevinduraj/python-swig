@@ -1,5 +1,5 @@
-Compiling with Python
-=====================
+Compiling C++ Libraries for Python
+==================================
 
 ## Install Python Developer Libraries
 ```
